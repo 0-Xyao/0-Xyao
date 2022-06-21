@@ -1,5 +1,5 @@
 ## 关于小妖
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0-Xyao&count_private=true&show_icons=true" width="380">
 
 - [零组攻防实验室](http://www.tidesec.com/) 创始人&&核心成员
 - Web安全爱好者
